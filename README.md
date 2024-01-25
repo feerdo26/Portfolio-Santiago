@@ -1,54 +1,21 @@
-# Astro Starter Kit: Basics
+# Portfolio de Santiago Gonzalez
 
-```sh
-npm create astro@latest -- --template basics
-```
+¡Hola! Soy Santiago Gonzalez, un apasionado desarrollador junior, y este es mi proyecto de portfolio. Aquí encontrarás una muestra de mi trabajo y las tecnologías que he utilizado para construir este sitio.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Tecnologías Utilizadas
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- **Astro:** Utilicé Astro como mi marco de trabajo para construir este sitio web. Astro me permitió crear una aplicación web rápida y eficiente con un rendimiento excepcional.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+- **Tailwind CSS:** El diseño y la apariencia de este portfolio se construyeron utilizando Tailwind CSS. Tailwind me brindó flexibilidad y eficiencia en el desarrollo de estilos, lo que facilitó la creación de una interfaz atractiva y receptiva.
 
-## 🚀 Project Structure
+## Acerca de mí
 
-Inside of your Astro project, you'll see the following folders and files:
+¡Hola de nuevo! Soy Santiago Gonzalez, un desarrollador junior apasionado por la creación de experiencias web increíbles. Mi enfoque principal es aprender y crecer continuamente en el mundo del desarrollo de software. Este portfolio refleja algunas de las habilidades y proyectos en los que he trabajado hasta ahora.
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   └── Card.astro
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+## Contáctame
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Si estás interesado en colaborar, tienes alguna pregunta o simplemente quieres saludar, ¡no dudes en ponerte en contacto conmigo!
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- **Correo Electrónico:** santiago.gonzalez.estudio@gmail.com
+- **LinkedIn:** [Santiago Gonzalez](https://www.linkedin.com/in/santiagofgonzalez/)
+  ¡Gracias por visitar mi portfolio!
